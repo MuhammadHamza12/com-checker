@@ -1,0 +1,19 @@
+.onFocusChangeColor:focus-within {
+  border: 1px solid #265d0c !important ;
+}
+
+.onFocusChangeColor:hover {
+  border: 1px solid #265d0c !important ;
+}
+
+.setBackground {
+  background: url("../assets/logo/background.png");
+  height: 100vh;
+  background-size: 100% 101%;
+  background-repeat: no-repeat;
+  padding-top: 0%;
+}
+.ant-checkbox-checked .ant-checkbox-inner:after {
+  /* background-color: black !important; */
+  border-color: #265d0c !important;
+}
